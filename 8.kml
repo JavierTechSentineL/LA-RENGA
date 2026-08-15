@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
 <Document>
-	<name>1.kml</name>
+	<name>8.kml</name>
 	<StyleMap id="m_ylw-pushpin">
 		<Pair>
 			<key>normal</key>
@@ -31,21 +31,20 @@
 		</IconStyle>
 	</Style>
 	<Placemark>
-		<name>10</name>
-		<open>1</open>
+		<name>8</name>
 		<LookAt>
-			<longitude>-65.32710106058667</longitude>
-			<latitude>-24.18485233911238</latitude>
+			<longitude>-65.32339391660788</longitude>
+			<latitude>-24.18378860379271</latitude>
 			<altitude>0</altitude>
-			<heading>13.68569389845263</heading>
-			<tilt>11.97608368466716</tilt>
-			<range>1018.840318617687</range>
+			<heading>13.68417520867115</heading>
+			<tilt>11.97690088699035</tilt>
+			<range>1457.320304499137</range>
 			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 		</LookAt>
 		<styleUrl>#m_ylw-pushpin</styleUrl>
 		<Point>
 			<gx:drawOrder>1</gx:drawOrder>
-			<coordinates>-65.32686367633794,-24.18536086596344,0</coordinates>
+			<coordinates>-65.32102130953632,-24.18680132764143,0</coordinates>
 		</Point>
 		<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.7.1155"></atom:link>
 	</Placemark>
